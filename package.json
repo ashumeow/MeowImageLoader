@@ -12,5 +12,6 @@
     "url": "http://windowsgeekpro.in"
   },
   "files": [
-  ]
+    "imageloader.js"
+    ]
 }
