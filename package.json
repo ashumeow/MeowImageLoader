@@ -1,0 +1,16 @@
+{
+  "name": "MeowImageLoader",
+  "version": "v1.0.0",
+  "description": "MeowImageLoader is a Javascript Image Libary that loads any type of images faster using WebRTC.",
+  "license": "MIT License",
+  "repository": "ashumeow/MeowImageLoader",
+  "author": {
+    "name": "Aswini S",
+    "github": "ashumeow",
+    "twitter": "@ashumeow",
+    "email": "ashumeow@live.com",
+    "url": "http://windowsgeekpro.in"
+  },
+  "files": [
+  ]
+}
