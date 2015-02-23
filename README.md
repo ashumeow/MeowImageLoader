@@ -11,15 +11,15 @@ Features expected:- <br>
 (c) Background music plays until the user allows the camera/microphone. <br><br>
 <i>(ii) Mozilla Firefox </i> <br>
 Features:- <br>
-(a) Normal image loading <br>
+(a) Fast image loading <br>
 (b) Background music <br>
 Flaws:- <br>Cam does not work. <br><br>
 <i>(iii)Internet Explorer </i><br>
 It works because only <code>MediaStream</code> has been used here. <br>
 Features:- <br>
-(a) Normal image loading <br>
+(a) Fast image loading <br>
 Flaws:- <br>
 Cam does not work. <br>
-<code>visibility: hidden; </code> does not work in IE and so, the hidden video will be visible.
+<code>visibility: hidden; display: none;</code> does not work in IE and so, the hidden video will be visible and sometimes, IE Frames gets shock waves. <br>
 <br><br>
 Licensed under MIT License (opensource)
