@@ -4,5 +4,6 @@
 	visibility: hidden;
 }
 #video{
-	visibility:hidden;
+	visibility: hidden;
+	display: none;
 }
