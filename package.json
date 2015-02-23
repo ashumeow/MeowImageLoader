@@ -1,6 +1,6 @@
 {
   "name": "MeowImageLoaderAndCam",
-  "version": "v1.0.0",
+  "version": "v1.5.1",
   "description": "MeowImageLoaderAndCam is a Javascript Image Libary that loads any type of images faster and a crazy webcam using WebRTC.",
   "license": "MIT License",
   "repository": "ashumeow/MeowImageLoaderAndCam",
